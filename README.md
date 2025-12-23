@@ -1,10 +1,10 @@
-# 🔨 JazzyMace Plugin (1.17 – 1.20.4)
+# 🔨 ShudevMace Plugin (1.17 – 1.20.4)
 
 **English:**
-Bring the iconic **Mace weapon** from Minecraft 1.21 to your server! Fully compatible with **1.17 – 1.20.4**, this plugin adds the JazzyMace with special effects, custom enchantments, and easy-to-use commands.
+Bring the iconic **ShudevMace weapon** from Minecraft 1.21 to your server! Fully compatible with **1.17 – 1.20.4**, this plugin adds the ShudevMace with special effects, custom enchantments, and easy-to-use commands.
 
 **Türkçe:**
-Minecraft 1.17 – 1.20.4 sürümlerine, Minecraft 1.21’deki **JazzyMace (Topuz)** öğesini ekler. Özel efektler, komutlarla özelleştirme ve enchant desteği ile kullanımı kolaydır.
+Minecraft 1.17 – 1.20.4 sürümlerine, Minecraft 1.21’deki **ShudevMace (Topuz)** öğesini ekler. Özel efektler, komutlarla özelleştirme ve enchant desteği ile kullanımı kolaydır.
 
 ---
 
@@ -12,7 +12,7 @@ Minecraft 1.17 – 1.20.4 sürümlerine, Minecraft 1.21’deki **JazzyMace (Topu
 
 **English:**
 
-* Adds the JazzyMace item to older Minecraft versions (1.17–1.20.4).
+* Adds the ShudevMace item to older Minecraft versions (1.17–1.20.4).
 * Fully configurable via `config.yml`.
 * Supports custom enchantments via commands.
 * Lightweight and user-friendly.
@@ -20,7 +20,7 @@ Minecraft 1.17 – 1.20.4 sürümlerine, Minecraft 1.21’deki **JazzyMace (Topu
 
 **Türkçe:**
 
-* 1.17–1.20.4 sürümlerine JazzyMace (Topuz) ekler.
+* 1.17–1.20.4 sürümlerine ShudevMace (Topuz) ekler.
 * `config.yml` üzerinden tam özelleştirme yapılabilir.
 * Komutlarla özel enchant uygulanabilir.
 * Hafif ve kolay kullanımlı.
@@ -32,15 +32,15 @@ Minecraft 1.17 – 1.20.4 sürümlerine, Minecraft 1.21’deki **JazzyMace (Topu
 
 **English:**
 
-* `/mace` → Gives the player the JazzyMace
+* `/mace` → Gives the player the ShudevMace
 * `/macereload` → Reloads the plugin configuration
-* `/macebuyu <enchantment> <level>` → Apply enchantments to the JazzyMace
+* `/macebuyu <enchantment> <level>` → Apply enchantments to the ShudevMace
 
 **Türkçe:**
 
-* `/mace` → JazzyMace verir
+* `/mace` → ShudevMace verir
 * `/macereload` → Eklenti ayarlarını yeniler
-* `/macebuyu <enchantment> <level>` → JazzyMace’e enchant uygular
+* `/macebuyu <enchantment> <level>` → ShudevMace’e enchant uygular
 
 ---
 
@@ -48,15 +48,15 @@ Minecraft 1.17 – 1.20.4 sürümlerine, Minecraft 1.21’deki **JazzyMace (Topu
 
 **English:**
 
-* `jazzymace.use` → Access `/mace`
-* `jazzymace.reload` → Access `/macereload`
-* `jazzymace.enchant` → Access `/macebuyu`
+* `shudevmace.use` → Access `/mace`
+* `shudevmace.reload` → Access `/macereload`
+* `shudevmace.enchant` → Access `/macebuyu`
 
 **Türkçe:**
 
-* `jazzymace.use` → `/mace` komutunu kullanabilir
-* `jazzymace.reload` → `/macereload` komutunu kullanabilir
-* `jazzymace.enchant` → `/macebuyu` komutunu kullanabilir
+* `shudevmace.use` → `/mace` komutunu kullanabilir
+* `shudevmace.reload` → `/macereload` komutunu kullanabilir
+* `shudevmace.enchant` → `/macebuyu` komutunu kullanabilir
 
 ---
 
@@ -65,9 +65,9 @@ Minecraft 1.17 – 1.20.4 sürümlerine, Minecraft 1.21’deki **JazzyMace (Topu
 **English:**
 
 * Based on **CustomMace** by [LemonyMC](https://github.com/LemonyMC-Dev/CustomMace)
-* This version is **enhanced and actively developed** by the JazzyMace team.
+* This version is **enhanced and actively developed** by the ShudevMace team.
 
 **Türkçe:**
 
 * Kaynak: **CustomMace** by [LemonyMC](https://github.com/LemonyMC-Dev/CustomMace)
-* Bu sürüm **geliştirilmiş ve aktif olarak JazzyMace ekibi tarafından geliştirilmektedir**.
+* Bu sürüm **geliştirilmiş ve aktif olarak ShudevMace ekibi tarafından geliştirilmektedir**.
